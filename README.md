@@ -2,6 +2,6 @@
 - 👀 I’m interested in mobile app development, cars, and motorcycles.
 - 🌱 I’m currently learning Python, Flutter, and exploring file handling in C++.
 - 💞️ I’m looking to collaborate on app development projects, especially in Android or iOS.
-- 📫 How to reach me: [your email here]
+- 📫 How to reach me: akramrakib55@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 6 languages, but I cannot write one code in different programming languages!
