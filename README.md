@@ -8,7 +8,7 @@
 <p>Building scalable mobile applications, REST APIs, backend systems and production-ready software.</p>
 
 <a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=0175C2&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Developer;Full-Stack+Application+Developer;Node.js+%26+Express.js+Backend+Developer;REST+API+%26+Firebase+Developer;React+%26+TypeScript+Developer;BS+Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=0175C2&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Developer;Full-Stack+Application+Developer;Node.js+%26+Express.js+Backend+Developer;REST+API+%26+Firebase+Developer;React+%26+TypeScript+Developer;Python+%26+Kotlin+Developer;BS+Computer+Science+Student" alt="Typing SVG" />
 </a>
 
 <br>
@@ -31,18 +31,21 @@
 
 I'm **Muhammad Rakib Akram**, a **BS Computer Science student at the University of Central Punjab (UCP)** and a developer focused on building modern, scalable, production-ready applications.
 
-My primary specialization is **Flutter & Dart mobile development**, while I'm actively expanding into **full-stack and backend development** using Node.js, Express.js, TypeScript, Prisma and PostgreSQL.
+My primary specialization is **Flutter & Dart mobile development**, while I'm actively expanding into **full-stack and backend development** using Node.js, Express.js, TypeScript, Prisma and PostgreSQL. I also work with **Python** and **Kotlin**, and have foundational knowledge of **Assembly language** from my Computer Science coursework.
 
 I enjoy turning real-world requirements into complete software solutions — from **UI/UX and mobile apps to REST APIs, authentication, databases and deployment**.
 
 ### 🚀 What I Do
 
 - 📱 Build cross-platform mobile applications with **Flutter & Dart**
+- 🤖 Build native Android features with **Kotlin**
+- 🐍 Write scripts, automation & backend tools with **Python**
 - ⚙️ Develop backend systems with **Node.js & Express.js**
 - 🔌 Design and integrate **RESTful APIs**
 - 🗄️ Work with **PostgreSQL, SQLite, Firebase & Firestore**
 - 🔐 Implement authentication, authorization and protected APIs
 - 🌐 Build web applications using **React & TypeScript**
+- 🧮 Understand low-level programming concepts with **Assembly**
 - 🤖 Work with AI-powered application features
 - 📷 Implement OCR/document scanning using **Google ML Kit**
 - 💾 Build offline-first application functionality
@@ -55,16 +58,17 @@ I enjoy turning real-world requirements into complete software solutions — fro
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=dart,cpp,js,ts,postgres,html,css&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=dart,cpp,js,ts,py,kotlin,postgres,html,css&theme=dark" />
+<img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" /><br><br>
 
 **Mobile:**<br>
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" /><br><br>
 
 **Frontend:**<br>
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=dark" /><br><br>
 
 **Backend:**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,py&theme=dark" />
 <img src="https://img.shields.io/badge/REST%20API-0175C2?style=for-the-badge&logo=swagger&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /><br><br>
 
@@ -79,15 +83,21 @@ I enjoy turning real-world requirements into complete software solutions — fro
 <details>
 <summary><b>📋 Full skills breakdown (click to expand)</b></summary>
 
+**Languages** — Dart, C++, JavaScript, TypeScript, Python, Kotlin, Assembly, HTML, CSS
+
 **Flutter Ecosystem** — Flutter UI & Responsive Design, State Management, Provider, REST API Integration, Firebase Integration, SQLite / Local Storage, Offline-First Architecture, Authentication, Role-Based Access Control, Push Notifications, PDF Generation, Image Picker, Google ML Kit, OCR / Document Scanner, AI-powered application features
 
-**Frontend** — React, TypeScript, JavaScript, Responsive UI, Component-Based Architecture, API Integration, Form Handling, Dashboard Development
+**Mobile / Android** — Kotlin, Android Development, Android Studio, Application Feature Implementation, UI/UX Improvements
 
-**Backend** — Node.js, Express.js, RESTful API Development, CRUD APIs, Authentication & Authorization, JWT Authentication, Password Hashing, Protected Routes, Request Validation, Error Handling, Pagination, Search, Filtering, Sorting, Database Migrations, Backend Architecture
+**Frontend** — React, TypeScript, JavaScript, HTML, CSS, Responsive UI, Component-Based Architecture, API Integration, Form Handling, Dashboard Development
+
+**Backend** — Node.js, Express.js, Python, RESTful API Development, CRUD APIs, Authentication & Authorization, JWT Authentication, Password Hashing, Protected Routes, Request Validation, Error Handling, Pagination, Search, Filtering, Sorting, Database Migrations, Backend Architecture
 
 **Databases** — PostgreSQL, Prisma ORM, Firebase, Cloud Firestore, SQLite, Database Design, Relational Database Concepts, Local Database Storage, Data Modeling
 
 **Security** — Firebase Authentication, JWT Authentication, Role-Based Access Control, Protected API Routes, Password Hashing, Request Validation, Authorization Middleware, Secure Database Access
+
+**Low-Level / CS Fundamentals** — Assembly Language, C++, Data Structures & Algorithms, Computer Architecture Concepts
 
 **AI / OCR** — AI-powered application features, AI Test Generator, AI Notes Summarization, Offline-first AI concepts, OCR Document Scanner, Google ML Kit Text Recognition, Image Processing, Automated Test Generation
 
@@ -238,6 +248,7 @@ A backend project demonstrating production-style REST API architecture and datab
 ```text
 Flutter & Dart → Advanced Flutter Architecture → Node.js & Express.js
      → REST API Development → PostgreSQL + Prisma → React + TypeScript
+     → Python for Backend & Automation → Kotlin for Native Android
      → Full-Stack Application Development → System Design & Software Architecture
      → Production-Ready Applications
 ```
@@ -269,7 +280,7 @@ Flutter & Dart → Advanced Flutter Architecture → Node.js & Express.js
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RakibAkram5&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="80%" />
+<img src="https://streak-stats.demolab.com/?user=RakibAkram5&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="80%" />
 
 <br><br>
 
