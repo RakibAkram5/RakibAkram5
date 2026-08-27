@@ -280,6 +280,16 @@ Flutter & Dart → Advanced Flutter Architecture → Node.js & Express.js
 
 <br><br>
 
+<!--
+  NOTE: the public streak-stats.demolab.com instance is a shared free
+  deployment used by thousands of GitHub profiles. It regularly hits its
+  rate limit and returns an "Error" image instead of the card.
+  Fix: deploy your own free instance in ~1 minute, then swap the URL below
+  for your own deployment URL:
+  1. Click "Deploy to Vercel" here: https://github.com/DenverCoder1/github-readme-streak-stats#login-to-vercel
+  2. After deploying, replace "streak-stats.demolab.com" below with your
+     own "*.vercel.app" domain — everything else (query params) stays the same.
+-->
 <img src="https://streak-stats.demolab.com/?user=RakibAkram5&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="80%" />
 
 <br><br>
@@ -327,4 +337,3 @@ I'm interested in:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=110&section=footer" />
 
 </div>
-fix api issue 
